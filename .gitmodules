@@ -1,0 +1,6 @@
+[submodule "course-ISDB-back"]
+	path = course-ISDB-back
+	url = https://github.com/kekens/course-ISDB-back
+[submodule "course-ISDB-Front"]
+	path = course-ISDB-Front
+	url = https://github.com/kekens/course-ISDB-Front
