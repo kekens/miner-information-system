@@ -1,6 +1,6 @@
-[submodule "course-ISDB-back"]
-	path = course-ISDB-back
+[submodule "miner-back"]
+	path = miner-back
 	url = https://github.com/kekens/course-ISDB-back
-[submodule "course-ISDB-Front"]
-	path = course-ISDB-Front
+[submodule "miner-front"]
+	path = miner-front
 	url = https://github.com/kekens/course-ISDB-Front
